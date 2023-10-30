@@ -1,0 +1,212 @@
+@media screen and  (max-width:1173px)
+{
+   
+    .sub-container-Img-section
+    {
+        height: 20rem;
+        width: 14rem;
+    } 
+}
+@media screen and (max-width:1093px)
+{    
+    .project-img
+    {
+        height: 26vh;
+        width: 22vw;
+    }
+}
+@media screen and  (max-width:1041px)
+{
+   
+   .sub-container
+   {
+     align-items: normal;
+     padding: 12px;
+     height: 84vh;
+     width: 84vw;
+   }
+   .content-container1
+   {
+    margin-top: 3rem;
+   }
+   .sub-container-Img-section
+   {
+    margin-top: 5rem;
+   }
+}
+
+@media screen and (max-width:896px)
+{
+    #desc
+    {
+        font-size: 1rem;
+    }
+    .sub-container-Img-section
+    {
+        height: 18rem;
+        width: 12rem;
+    }
+}
+@media screen and (max-width:818px) 
+{
+    .project-partition-border
+    {
+        display: none;
+    }
+    .projects-container
+    {
+        width: 84vw;
+    }
+    .projects{
+        width: 70vw;
+    }
+    .project-img
+    {
+        height: 29vh;
+        width: 29vw;
+    }
+    .project-desc
+    {
+        width: 70vw;
+    }
+}
+@media screen and (max-width:624px)
+{
+    
+    .sub-container-Img-section
+    {
+        position: relative;
+        bottom: 6rem;
+        height: 18rem;
+        width: 12rem;
+    }
+    .content-container1
+    {
+        width: 100vw;
+    }
+    .sub-container
+   {
+     padding: 12px;
+     height: 120vh;
+     width: 84vw;
+   }
+}
+@media screen and (max-width:610px)
+{
+     h2
+     {
+        font-size: 1rem;
+     }
+     h3{
+        font-size: 0.88rem;
+     }
+     .project-desc{
+        font-size: 0.85rem;
+     }
+    .projects-container
+    {
+        flex-direction: column;
+        width: 80vw;
+    }
+    .projects
+    {
+        flex-direction: column;
+        width: 70vw;
+    }
+    .project-img
+    {
+        height: 30vh;
+        width: 45vw;
+    }
+    .project-desc
+    {
+        width: 70vw;
+        text-align: center;
+        padding-right: 7px;
+        margin-right: 9px;
+    }
+}
+
+@media screen and (max-width:506px)
+{
+    .sub-container
+    {
+       height: 130vh;
+    }
+    .sub-container-Img-section
+    {
+        
+        bottom: 2rem;
+        height: 16rem;
+        width: 10rem;
+        
+    }
+}
+@media screen and (max-width:439px) 
+{
+    .nav
+    {
+        font-size: 0.85rem;
+    }
+    .skill
+    {
+        width: 20rem;
+        height: 10rem;
+    }
+    .skill-5
+    {
+        width: 19rem;
+        height: 10rem;
+    }
+    .skill-2 .skill-inner-img
+    {
+        width: 140px;
+    }
+    .skill-2 .skill-inner-img img
+    {
+        transform: scale(2);
+    }
+}
+@media screen and (max-width:408px)
+{
+    #name
+    {
+        font-size: 1.2rem;
+    }
+    .sub-container-Img-section
+    {
+        bottom: 1rem;
+    }
+}
+@media screen and (max-width:360px)
+{
+    .skill
+    {
+        width: 18rem;
+    }
+    .skill-inner-desc
+    {
+        font-size: 0.85rem;
+    }
+    .skill-2   .skill-inner-desc
+    {
+        width: 200px;
+    }
+    .skill-2  .skill-inner-desc .profiles
+    {
+        margin-left: 4rem;
+    }
+    .skill-5
+    {
+        width: 17rem;
+    }
+    .skill-2 .skill-inner-img
+    {
+        width: 100px;
+    }
+    .skill-2 .skill-inner-img img
+    {
+        transform: scale(1);
+    }
+}
+
